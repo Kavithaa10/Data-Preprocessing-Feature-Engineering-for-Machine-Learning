@@ -56,7 +56,7 @@
 
 ### Advanced Explanatory Data Analyis with Seaborn
 
-#### 10.	Add the additional column "income_cat" with the following income categories:
+#### 9.	Add the additional column "income_cat" with the following income categories:
 #### •	lowest 25% -> "Low"
 #### •	25th to 50th percentile -> "Below_Average"
 #### •	50th to 75th percentile -> "Above_Average"
